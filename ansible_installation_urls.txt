@@ -1,0 +1,5 @@
+https://developers.redhat.com/blog/2016/09/02/how-to-install-and-configure-ansible-on-rhel/
+
+https://developers.redhat.com/blog/2016/08/15/install-ansible-on-rhel/
+
+https://aws.amazon.com/premiumsupport/knowledge-center/ec2-memory-swap-file/
